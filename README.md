@@ -9,7 +9,7 @@ Capstone Project for Google Data Analytics Specialization on Coursera. <br>
 <li>Processed/                                     : Processed Dataset</li>
 <li>Preprocessed.ipynb                             : Python Notebook for Data Engineering</li>
 <li>Scope of Work Template - Retail Analytics.docx : Scope of work Template</li>  
-<li>*.twbx files                                   : Tableau workbook files</li>
+<li>*.twbx file                                   : Tableau Story</li>
 </ul>
 
 Find the Live Workbook on my Tableau Profile : https://public.tableau.com/app/profile/vishnu.u7515#!/?newProfile=&activeTab=0 <br>
