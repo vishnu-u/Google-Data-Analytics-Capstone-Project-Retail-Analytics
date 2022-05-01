@@ -1,6 +1,6 @@
 # Google-Data-Analytics-Capstone-Project : Retail-Analytics
-Capstone Project for Google Data Analytics Specialization on Coursera.
-<b>Problem Statement : </b>The project is to analyze the sales data and understand how customer lifestage, subscription and brand impact the sales.
+Capstone Project for Google Data Analytics Specialization on Coursera. <br>
+<b>Problem Statement : </b>The project is to analyze the sales data and understand how customer lifestage, subscription and brand impact the sales. <br>
 <b>Deliverable : </b>Live dashboards for the three tasks - Customer LifeStage, Customer Subscription and Brand.
 
 ## Understanding Folder Structure:
@@ -12,6 +12,6 @@ Capstone Project for Google Data Analytics Specialization on Coursera.
 <li>*.twbx files                                   : Tableau workbook files</li>
 </ul>
 
-Find the Live Workbook on my Tableau Profile : https://public.tableau.com/app/profile/vishnu.u7515#!/?newProfile=&activeTab=0
-Find me on LinkedIn: https://www.linkedin.com/in/vishnuu0399
+Find the Live Workbook on my Tableau Profile : https://public.tableau.com/app/profile/vishnu.u7515#!/?newProfile=&activeTab=0 <br>
+dFind me on LinkedIn: https://www.linkedin.com/in/vishnuu0399 <br>
 Know more about Me : https://bit.ly/vishnu-u
